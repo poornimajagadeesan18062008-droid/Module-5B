@@ -42,4 +42,4 @@ print(combined_df)
 <img width="576" height="211" alt="image" src="https://github.com/user-attachments/assets/96fa04bf-503a-47b7-a334-dd0e84827d99" />
 
 ## Result
-Thus,To write a Python program using Pandas to **join two DataFrames along rows** (row-wise concatenation) and assign all data to a new DataFrame is executed successfully.
+Thus,to write a Python program using Pandas to **join two DataFrames along rows** (row-wise concatenation) and assign all data to a new DataFrame is executed successfully.
